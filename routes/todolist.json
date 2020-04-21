@@ -1,0 +1,26 @@
+[
+    {
+        "activity": "Supervision",
+        "position": "HR Department",
+        "staff": "Eshun Cobbinah",
+        "status":"done"
+    },
+    {
+        "activity": "Attend Meetings",
+        "position": "Accountant",
+        "staff": "Richmond Agyei",
+        "status" : "❌"
+    },
+    {
+        "activity": "Weekly Expenses",
+        "position": "Cleaner ",
+        "staff": "Vaselisa Addo",
+        "status" : "pending"
+    },
+    {
+        "activity": "Account Review",
+        "position": "IT Manager",
+        "staff": "Silas Oppong",
+        "status" : "✅"
+    }
+]
